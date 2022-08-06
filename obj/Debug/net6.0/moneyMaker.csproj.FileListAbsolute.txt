@@ -1,0 +1,15 @@
+/Users/franciscoavila/Desktop/C# Projects/moneyMaker/bin/Debug/net6.0/moneyMaker
+/Users/franciscoavila/Desktop/C# Projects/moneyMaker/bin/Debug/net6.0/moneyMaker.deps.json
+/Users/franciscoavila/Desktop/C# Projects/moneyMaker/bin/Debug/net6.0/moneyMaker.runtimeconfig.json
+/Users/franciscoavila/Desktop/C# Projects/moneyMaker/bin/Debug/net6.0/moneyMaker.dll
+/Users/franciscoavila/Desktop/C# Projects/moneyMaker/bin/Debug/net6.0/moneyMaker.pdb
+/Users/franciscoavila/Desktop/C# Projects/moneyMaker/obj/Debug/net6.0/moneyMaker.csproj.AssemblyReference.cache
+/Users/franciscoavila/Desktop/C# Projects/moneyMaker/obj/Debug/net6.0/moneyMaker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/franciscoavila/Desktop/C# Projects/moneyMaker/obj/Debug/net6.0/moneyMaker.AssemblyInfoInputs.cache
+/Users/franciscoavila/Desktop/C# Projects/moneyMaker/obj/Debug/net6.0/moneyMaker.AssemblyInfo.cs
+/Users/franciscoavila/Desktop/C# Projects/moneyMaker/obj/Debug/net6.0/moneyMaker.csproj.CoreCompileInputs.cache
+/Users/franciscoavila/Desktop/C# Projects/moneyMaker/obj/Debug/net6.0/moneyMaker.dll
+/Users/franciscoavila/Desktop/C# Projects/moneyMaker/obj/Debug/net6.0/refint/moneyMaker.dll
+/Users/franciscoavila/Desktop/C# Projects/moneyMaker/obj/Debug/net6.0/moneyMaker.pdb
+/Users/franciscoavila/Desktop/C# Projects/moneyMaker/obj/Debug/net6.0/moneyMaker.genruntimeconfig.cache
+/Users/franciscoavila/Desktop/C# Projects/moneyMaker/obj/Debug/net6.0/ref/moneyMaker.dll
